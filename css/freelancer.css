@@ -25,6 +25,15 @@ a.active {
     color: #6E6E6E;
 }
 
+a.success,
+a.success:hover,
+a.success:focus,
+a.success:active,
+a.success .active {
+	outline: 0;
+	color: #fff
+}
+
 h1,
 h2,
 h3,
@@ -34,6 +43,10 @@ h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 400;
+}
+
+.project-title {
+	margin-top: 10.5px;
 }
 
 hr.star-light,
@@ -192,6 +205,10 @@ section.success {
     section.first {
         padding-top: 75px;
     }
+}
+
+.portfolio-item {
+	padding-bottom: 25px;
 }
 
 #portfolio .portfolio-item {
