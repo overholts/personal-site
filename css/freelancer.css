@@ -464,10 +464,10 @@ footer .footer-below {
 /* Parallax Effect bindings */
 #intro {
 	background-color: transparent;
-	background: url(../img/bg_sunrise.jpg) 50% 0 fixed;
+	background: url(../img/bg_city_dark.jpg) 50% 0 fixed;
 }
 
 #projects {
 	background-color: transparent;
-	background: url(../img/bg_sunrise.jpg) 50% 0 fixed;
+	background: url(../img/bg_city_dark.jpg) 50% 0 fixed;
 }
