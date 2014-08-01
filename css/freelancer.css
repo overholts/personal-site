@@ -61,7 +61,7 @@ hr.star-primary {
 
 hr.star-light:after,
 hr.star-primary:after {
-    content: "\f005";
+    /* content: "\f005"; */
     display: inline-block;
     position: relative;
     top: -.8em;
@@ -76,7 +76,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #A4A4A4;
+    background-color: transparent;
 }
 
 hr.star-primary {
@@ -361,7 +361,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #424242;
 }
 
 .btn-social {
@@ -459,4 +459,15 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+/* Parallax Effect bindings */
+#intro {
+	background-color: transparent;
+	background: url(../img/bg_sunrise.jpg) 50% 0 fixed;
+}
+
+#projects {
+	background-color: transparent;
+	background: url(../img/bg_sunrise.jpg) 50% 0 fixed;
 }
