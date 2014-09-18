@@ -29,10 +29,13 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- Log Visitor Statistics -->
+
+
 </head>
 
 <body id="page-top" class="index">
-
+    <?php include ('./php/logger.php'); ?>
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -96,80 +99,80 @@
                     <hr class="star-primary">
                 </div>
             </div>
-            
+
             <!-- UMD CS Section -->
             <div class="row">
             	<div class="col-sm-4">
-                	<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                	<img src="img/portfolio/maryland.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
                 </div>
                 <div class="col-sm-8">
-                	<p>I am a Computer Science student at the University of Maryland, College Park.  Blah blah blah 
-					more text will go here blah blah.  Dont keep reading, this is a fake paragraph that I'm writing 
-					as filler.  Jesus Christ it is literally 85 degrees in the office right now, IBM pls fix the 
-					air conditioning. Blah blah the brown fox jumped over the lazy dog but the dog tripped him so the 
+                	<p>I am a Computer Science student at the University of Maryland, College Park.  Blah blah blah
+					more text will go here blah blah.  Dont keep reading, this is a fake paragraph that I'm writing
+					as filler.  Jesus Christ it is literally 85 degrees in the office right now, IBM pls fix the
+					air conditioning. Blah blah the brown fox jumped over the lazy dog but the dog tripped him so the
 					fox shanked that hitta.</p>
 					<!-- mention compilers stuff -->
                 </div>
             </div>
-            
+
             <!-- Divider -->
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <hr class="star-primary"> <!-- TODO: replace this hr, possibly just invis spacer -->
                 </div>
             </div>
-            
+
             <!-- Steel Hornets Section -->
             <div class="row">
             	<div class="col-sm-8">
-                	<p>If you're not familiar with First you should <a href="http://www.usfirst.org/" target="_blank">go check them out</a>.  I 
-                	spent 3 years competing in their First Tech Challenge robotics league with my high school's team 
-                	(Team 118, Steel Hornets).  In that time, we went to World Championships twice, and I learned an invaluable 
-                	amount about teamwork, perseverance, leadership, and patience.  Now, as an alumni of the program, I help 
+                	<p>If you're not familiar with First you should <a href="http://www.usfirst.org/" target="_blank">go check them out</a>.  I
+                	spent 3 years competing in their First Tech Challenge robotics league with my high school's team
+                	(Team 118, Steel Hornets).  In that time, we went to World Championships twice, and I learned an invaluable
+                	amount about teamwork, perseverance, leadership, and patience.  Now, as an alumni of the program, I help
                 	my high school host a Pennsylvania regional qualifying tournament each season.</p>
             	</div>
             	<div class="col-sm-4">
-                	<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                	<img src="img/portfolio/robotics.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
             	</div>
             </div>
-            
+
             <!-- Divider -->
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <hr class="star-primary"> <!-- TODO: replace this hr, possibly just invis spacer -->
                 </div>
             </div>
-            
+
             <!-- Work Experience Section -->
             <div class="row">
             	<div class="col-sm-4">
-                	<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                	<img src="img/portfolio/ibm_wayne.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
                 </div>
                 <div class="col-sm-8">
                 	<p>I spent this summer working as a QA Automation Intern at IBM in their Smarter Workforce division.  I used a toolkit
-					which consisted of <a href="http://www.gebish.org/" target="_blank">Geb</a>, <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a>, 
-					<a href="http://maven.apache.org/" target="_blank">Maven</a> (<a href="http://maven.apache.org/surefire/maven-surefire-plugin/" target="_blank">Surefire</a>), 
-					and <a href="http://jenkins-ci.org/" target="_blank">Jenkins</a>.  In addition to helping the full time employees with their work, I integrated 
-					<a href="http://www.oracle.com/technetwork/java/javase/jdbc/index.html" target="_blank">JDBC</a> support into the testing framework so that 
+					which consisted of <a href="http://www.gebish.org/" target="_blank">Geb</a>, <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a>,
+					<a href="http://maven.apache.org/" target="_blank">Maven</a> (<a href="http://maven.apache.org/surefire/maven-surefire-plugin/" target="_blank">Surefire</a>),
+					and <a href="http://jenkins-ci.org/" target="_blank">Jenkins</a>.  In addition to helping the full time employees with their work, I integrated
+					<a href="http://www.oracle.com/technetwork/java/javase/jdbc/index.html" target="_blank">JDBC</a> support into the testing framework so that
 					we could run database queries from within scripts for verification of UI data.</p>
                 </div>
             </div>
-            
+
             <!-- Divider -->
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <hr class="star-primary"> <!-- TODO: replace this hr, possibly just invis spacer -->
                 </div>
             </div>
-            
+
             <!-- Other Activities Section -->
             <div class="row">
-            
+
             	<!-- DCC Picture -->
-           		<div class="col-sm-4">
+           		<div class="col-sm-4 col-sm-offset-1">
             		<div class="row">
-						<div class="col-sm-12">
-							<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                        <div class="col-sm-12">
+							<img src="img/portfolio/dcc_delta_gamma.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
 						</div>
 					</div>
 					<div class="row">
@@ -178,12 +181,12 @@
 						</div>
 					</div>
 				</div>
-				
+
 				<!-- Club Swimming Picture -->
-				<div class="col-sm-4">
+				<div class="col-sm-4 col-sm-offset-2">
             		<div class="row">
 						<div class="col-sm-12">
-							<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+							<img src="img/portfolio/club_swim.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
 						</div>
 					</div>
 					<div class="row">
@@ -192,12 +195,12 @@
 						</div>
 					</div>
 				</div>
-				
-				<!-- Something Else Picture -->
+<!--
+				<!- - Something Else Picture - ->
 				<div class="col-sm-4">
             		<div class="row">
 						<div class="col-sm-12">
-							<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+							<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!- - TODO: replace this img - ->
 						</div>
 					</div>
 					<div class="row">
@@ -206,6 +209,7 @@
 						</div>
 					</div>
 				</div>
+-->
             </div>
         </div>
     </section>
@@ -599,7 +603,7 @@
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
-    
+
     <!-- Parallax Scrolling JavaScript -->
     <script src="js/parallax.js"></script>
 
