@@ -226,7 +226,7 @@
             <div class="row">
             	<div class="col-sm-4 col-sm-offset-1 portfolio-item">
                     <a href="#portfolioModal1" class="portfolio-link success" data-toggle="modal">
-                        <img src="img/portfolio/circus.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/firefinch.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
                                 <h3 class="project-title">FireFinch</h3>
@@ -236,7 +236,7 @@
                 </div>
                 <div class="col-sm-4 col-sm-offset-2 portfolio-item">
                     <a href="#portfolioModal2" class="portfolio-link success" data-toggle="modal">
-                        <img src="img/portfolio/game.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/lan_academy.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
                                 <h3 class="project-title">LAN Academy</h3>
@@ -248,7 +248,7 @@
             <div class="row">
                 <div class="col-sm-4 col-sm-offset-1 portfolio-item">
                     <a href="#portfolioModal3" class="portfolio-link success" data-toggle="modal">
-                        <img src="img/portfolio/safe.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/photophonix.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
                                 <h3 class="project-title">Photophonix</h3>
@@ -377,7 +377,6 @@
                         <div class="modal-body">
                             <h2>FireFinch</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cabin.png" class="img-responsive img-centered" alt="">
                             <p>FireFinch is a proprietary algorithmic trading platform for cryptocurrency trading pairs like USD/BTC, USD/LTC, and LTC/BTC.  The Java-based application is backed by a portfolio of trading strategies that utilize technical/fundamental indicators and arbitrage.  Strategies have been successfully backtested and the aim is to begin forward testing strategies beginning Fall 2014, with actual trading to begin in Winter 2014/2015.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
@@ -400,22 +399,8 @@
                         <div class="modal-body">
                             <h2>LAN Academy</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/cake.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
+                            <img src="img/portfolio/lan_2.jpg" class="img-responsive img-centered" alt="">
+                            <p>LAN Academy is an early-stage nonprofit based in Boston and dedicated to bringing world-class secondary education to students in the developing world. They partner with organizations worldwide to turn on the existing computer labs into offline digital tutoring labs using our open source software and hand-picked open educational resources in a way that is offline, scalable and accessible to the students around the world in a wide variety of circumstances.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -437,22 +422,8 @@
                         <div class="modal-body">
                             <h2>Photophonix</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/circus.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
+                            <img src="img/portfolio/capstone_fair.jpg" class="img-responsive img-centered" alt="">
+                            <p>Photophonix is the Honors Program Capstone Project of myself and David Wannlund, and undergraduate Physics/Music dual major.  This android application generates dynamic music based on a live feed of input from the device camera using a selection of precompiled instrumental loops composed by David.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -475,21 +446,7 @@
                             <h2>Camera Tracking Test</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
+                            <p>This project is just some rudimentary experimentation with motion tracking.  Using <a href="http://sol.gfxile.net/escapi/" target="_blank">ESCAPI</a> to retrieve data from an attached webcam, I wrote some code to detect a distinctly colored object and recognice different swiping motions.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
