@@ -258,7 +258,7 @@
                 </div>
                 <div class="col-sm-4 col-sm-offset-2 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link success" data-toggle="modal">
-                        <img src="img/portfolio/submarine.png" class="img-responsive" alt="">
+                        <img src="img/portfolio/camera_tracking.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
                                 <h3 class="project-title">Camera Tracking Test</h3>
