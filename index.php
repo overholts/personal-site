@@ -65,6 +65,9 @@
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
                     </li>
+                    <li class="page-scroll">
+                        <a href="http://www.benoverholts.com/Ben_Overholts_Resume.pdf" target="_blank">Resume</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -103,15 +106,35 @@
             <!-- UMD CS Section -->
             <div class="row">
             	<div class="col-sm-4">
-                	<img src="img/portfolio/maryland.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                	<img src="img/portfolio/maryland.jpg" class="img-responsive" alt="">
                 </div>
                 <div class="col-sm-8">
-                	<p>I am a Computer Science student at the University of Maryland, College Park.  Blah blah blah
-					more text will go here blah blah.  Dont keep reading, this is a fake paragraph that I'm writing
-					as filler.  Jesus Christ it is literally 85 degrees in the office right now, IBM pls fix the
-					air conditioning. Blah blah the brown fox jumped over the lazy dog but the dog tripped him so the
-					fox shanked that hitta.</p>
-					<!-- mention compilers stuff -->
+                	<p>I am a Computer Science student at the University of Maryland, College Park.  I expect to graduate in May 2016, and
+                    have completed coursework on topics including data structures, algorithm analysis, computer systems architecture,
+                    security, and compilers.  I have experience working with a wide range of tools and languages; for more information, check
+                    out my <a href="http://www.benoverholts.com/Ben_Overholts_Resume.pdf" target="_blank">Resume</a> or <a id="contact_link" href="#contact">Contact Me</a>!</p>
+                </div>
+            </div>
+
+            <!-- Divider -->
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <hr class="star-primary">
+                </div>
+            </div>
+
+            <!-- Work Experience Section -->
+            <div class="row">
+                <div class="col-sm-8">
+                    <p>I spent this summer working as a QA Automation Intern at IBM in their Smarter Workforce division.  I used a toolkit
+                    which consisted of <a href="http://www.gebish.org/" target="_blank">Geb</a>, <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a>,
+                    <a href="http://maven.apache.org/" target="_blank">Maven</a> (<a href="http://maven.apache.org/surefire/maven-surefire-plugin/" target="_blank">Surefire</a>),
+                    and <a href="http://jenkins-ci.org/" target="_blank">Jenkins</a>.  In addition to helping the full time employees with their work, I integrated
+                    <a href="http://www.oracle.com/technetwork/java/javase/jdbc/index.html" target="_blank">JDBC</a> support into the testing framework so that
+                    we could run database queries from within scripts for verification of UI data.</p>
+                </div>
+                <div class="col-sm-4">
+                    <img src="img/portfolio/ibm_wayne.jpg" class="img-responsive" alt="">
                 </div>
             </div>
 
@@ -124,37 +147,15 @@
 
             <!-- Steel Hornets Section -->
             <div class="row">
-            	<div class="col-sm-8">
-                	<p>If you're not familiar with First you should <a href="http://www.usfirst.org/" target="_blank">go check them out</a>.  I
-                	spent 3 years competing in their First Tech Challenge robotics league with my high school's team
-                	(Team 118, Steel Hornets).  In that time, we went to World Championships twice, and I learned an invaluable
-                	amount about teamwork, perseverance, leadership, and patience.  Now, as an alumni of the program, I help
-                	my high school host a Pennsylvania regional qualifying tournament each season.</p>
-            	</div>
-            	<div class="col-sm-4">
-                	<img src="img/portfolio/robotics.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
-            	</div>
-            </div>
-
-            <!-- Divider -->
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <hr class="star-primary"> <!-- TODO: replace this hr, possibly just invis spacer -->
-                </div>
-            </div>
-
-            <!-- Work Experience Section -->
-            <div class="row">
-            	<div class="col-sm-4">
-                	<img src="img/portfolio/ibm_wayne.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+                <div class="col-sm-4">
+                    <img src="img/portfolio/robotics.jpg" class="img-responsive" alt="">
                 </div>
                 <div class="col-sm-8">
-                	<p>I spent this summer working as a QA Automation Intern at IBM in their Smarter Workforce division.  I used a toolkit
-					which consisted of <a href="http://www.gebish.org/" target="_blank">Geb</a>, <a href="http://groovy.codehaus.org/" target="_blank">Groovy</a>,
-					<a href="http://maven.apache.org/" target="_blank">Maven</a> (<a href="http://maven.apache.org/surefire/maven-surefire-plugin/" target="_blank">Surefire</a>),
-					and <a href="http://jenkins-ci.org/" target="_blank">Jenkins</a>.  In addition to helping the full time employees with their work, I integrated
-					<a href="http://www.oracle.com/technetwork/java/javase/jdbc/index.html" target="_blank">JDBC</a> support into the testing framework so that
-					we could run database queries from within scripts for verification of UI data.</p>
+                    <p>If you're not familiar with First you should <a href="http://www.usfirst.org/" target="_blank">go check them out</a>.  I
+                    spent 3 years competing in their First Tech Challenge robotics league with my high school's team
+                    (Team 118, Steel Hornets).  In that time, we went to World Championships twice, and I learned an invaluable
+                    amount about teamwork, perseverance, leadership, and patience.  Now, as an alumni of the program, I help
+                    my high school host a Pennsylvania regional qualifying tournament each season.</p>
                 </div>
             </div>
 
@@ -172,7 +173,7 @@
            		<div class="col-sm-4 col-sm-offset-1">
             		<div class="row">
                         <div class="col-sm-12">
-							<img src="img/portfolio/dcc_delta_gamma.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+							<img src="img/portfolio/dcc_delta_gamma.jpg" class="img-responsive" alt="">
 						</div>
 					</div>
 					<div class="row">
@@ -186,7 +187,7 @@
 				<div class="col-sm-4 col-sm-offset-2">
             		<div class="row">
 						<div class="col-sm-12">
-							<img src="img/portfolio/club_swim.jpg" class="img-responsive" alt=""> <!-- TODO: replace this img -->
+							<img src="img/portfolio/club_swim.jpg" class="img-responsive" alt="">
 						</div>
 					</div>
 					<div class="row">
@@ -200,7 +201,7 @@
 				<div class="col-sm-4">
             		<div class="row">
 						<div class="col-sm-12">
-							<img src="img/portfolio/placeholder.png" class="img-responsive" alt=""> <!- - TODO: replace this img - ->
+							<img src="img/portfolio/placeholder.png" class="img-responsive" alt="">
 						</div>
 					</div>
 					<div class="row">
@@ -400,7 +401,7 @@
                             <h2>LAN Academy</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/lan_2.jpg" class="img-responsive img-centered" alt="">
-                            <p>LAN Academy is an early-stage nonprofit based in Boston and dedicated to bringing world-class secondary education to students in the developing world. They partner with organizations worldwide to turn on the existing computer labs into offline digital tutoring labs using our open source software and hand-picked open educational resources in a way that is offline, scalable and accessible to the students around the world in a wide variety of circumstances.</p>
+                            <p><a href="http://lanacademy.org/" target="_blank">LAN Academy</a> is an early-stage nonprofit based in Boston and dedicated to bringing world-class secondary education to students in the developing world. They partner with organizations worldwide to turn on the existing computer labs into offline digital tutoring labs using our open source software and hand-picked open educational resources in a way that is offline, scalable and accessible to the students around the world in a wide variety of circumstances.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -445,82 +446,8 @@
                         <div class="modal-body">
                             <h2>Camera Tracking Test</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/game.png" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/camera_tracking_code.jpg" class="img-responsive img-centered" alt="">
                             <p>This project is just some rudimentary experimentation with motion tracking.  Using <a href="http://sol.gfxile.net/escapi/" target="_blank">ESCAPI</a> to retrieve data from an attached webcam, I wrote some code to detect a distinctly colored object and recognice different swiping motions.</p>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/safe.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
-                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
-        <div class="modal-content">
-            <div class="close-modal" data-dismiss="modal">
-                <div class="lr">
-                    <div class="rl">
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Project Title</h2>
-                            <hr class="star-primary">
-                            <img src="img/portfolio/submarine.png" class="img-responsive img-centered" alt="">
-                            <p>Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</p>
-                            <ul class="list-inline item-details">
-                                <li>Client:
-                                    <strong><a href="http://startbootstrap.com">Start Bootstrap</a>
-                                    </strong>
-                                </li>
-                                <li>Date:
-                                    <strong><a href="http://startbootstrap.com">April 2014</a>
-                                    </strong>
-                                </li>
-                                <li>Service:
-                                    <strong><a href="http://startbootstrap.com">Web Development</a>
-                                    </strong>
-                                </li>
-                            </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
