@@ -424,7 +424,7 @@
                             <h2>Photophonix</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/capstone_fair.jpg" class="img-responsive img-centered" alt="">
-                            <p>Photophonix is the Honors Program Capstone Project of myself and David Wannlund, and undergraduate Physics/Music dual major.  This android application generates dynamic music based on a live feed of input from the device camera using a selection of precompiled instrumental loops composed by David.</p>
+                            <p>Photophonix is the Honors Program Capstone Project of myself and David Wannlund (pictured right), and undergraduate Physics/Music dual major.  This android application generates dynamic music based on a live feed of input from the device camera using a selection of precompiled instrumental loops composed by David.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
