@@ -424,7 +424,7 @@
                             <h2>Photophonix</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/capstone_fair.jpg" class="img-responsive img-centered" alt="">
-                            <p>Photophonix is the Honors Program Capstone Project of myself and David Wannlund (pictured right), and undergraduate Physics/Music dual major.  This android application generates dynamic music based on a live feed of input from the device camera using a selection of precompiled instrumental loops composed by David.</p>
+                            <p>Photophonix is the Honors Program Capstone Project of myself and David Wannlund (pictured right), an undergraduate Physics/Music dual major.  This android application generates dynamic music based on a live feed of input from the device camera using a selection of precompiled instrumental loops composed by David.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
@@ -447,7 +447,7 @@
                             <h2>Camera Tracking Test</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/camera_tracking_code.jpg" class="img-responsive img-centered" alt="">
-                            <p>This project is just some rudimentary experimentation with motion tracking.  Using <a href="http://sol.gfxile.net/escapi/" target="_blank">ESCAPI</a> to retrieve data from an attached webcam, I wrote some code to detect a distinctly colored object and recognice different swiping motions.</p>
+                            <p>This project is just some rudimentary experimentation with motion tracking.  Using <a href="http://sol.gfxile.net/escapi/" target="_blank">ESCAPI</a> to retrieve data from an attached webcam, I wrote some code to detect a distinctly colored object and recognize different swiping motions.  View the source code <a href="http://www.benoverholts.com/capture_source.html" target="_blank">here</a>.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
