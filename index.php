@@ -262,7 +262,7 @@
                         <img src="img/portfolio/camera_tracking.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
-                                <h3 class="project-title">Camera Tracking Test</h3>
+                                <h3 class="project-title">FundYoCharity</h3>
                             </div>
                         </div>
                     </a>
