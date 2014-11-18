@@ -444,10 +444,10 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Camera Tracking Test</h2>
+                            <h2>FundYoCharity</h2>
                             <hr class="star-primary">
                             <img src="img/portfolio/camera_tracking_code.jpg" class="img-responsive img-centered" alt="">
-                            <p>This project is just some rudimentary experimentation with motion tracking.  Using <a href="http://sol.gfxile.net/escapi/" target="_blank">ESCAPI</a> to retrieve data from an attached webcam, I wrote some code to detect a distinctly colored object and recognize different swiping motions.  View the source code <a href="http://www.benoverholts.com/capture_source.html" target="_blank">here</a>.</p>
+                            <p>FundYoCharity is project from HackPrinceton Fall 2014 which recieved a $1000 prize for Best Use of the Yo API.  FundYoCharity is a Yo Index that allows frictionless donation to charity with the simplicity of sending a Yo.  Under the hood, FundYoCharity runs on the LAMP stack, driven by PHP scripts which get hit by the Yo API callback.  User information is stored in a MySQL database, and donations are submitted by injection of a POST request to the Doctors Without Borders donation form.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
