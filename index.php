@@ -259,7 +259,7 @@
                 </div>
                 <div class="col-sm-4 col-sm-offset-2 portfolio-item">
                     <a href="#portfolioModal4" class="portfolio-link success" data-toggle="modal">
-                        <img src="img/portfolio/camera_tracking.jpg" class="img-responsive" alt="">
+                        <img src="img/portfolio/yo_tile.jpg" class="img-responsive" alt="">
                         <div class="caption">
                             <div class="caption-content text-center">
                                 <h3 class="project-title">FundYoCharity</h3>
@@ -446,7 +446,7 @@
                         <div class="modal-body">
                             <h2>FundYoCharity</h2>
                             <hr class="star-primary">
-                            <img src="img/portfolio/camera_tracking_code.jpg" class="img-responsive img-centered" alt="">
+                            <img src="img/portfolio/fyc_screens.jpg" class="img-responsive img-centered" alt="">
                             <p>FundYoCharity is project from HackPrinceton Fall 2014 which recieved a $1000 prize for Best Use of the Yo API.  FundYoCharity is a Yo Index that allows frictionless donation to charity with the simplicity of sending a Yo.  Under the hood, FundYoCharity runs on the LAMP stack, driven by PHP scripts which get hit by the Yo API callback.  User information is stored in a MySQL database, and donations are submitted by injection of a POST request to the Doctors Without Borders donation form.</p>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
