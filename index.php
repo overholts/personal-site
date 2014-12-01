@@ -170,7 +170,7 @@
             <div class="row">
 
             	<!-- DCC Picture -->
-           		<div class="col-sm-4 col-sm-offset-1">
+           		<div class="col-sm-4">
             		<div class="row">
                         <div class="col-sm-12">
 							<img src="img/portfolio/dcc_delta_gamma.jpg" class="img-responsive" alt="">
@@ -184,7 +184,7 @@
 				</div>
 
 				<!-- Club Swimming Picture -->
-				<div class="col-sm-4 col-sm-offset-2">
+				<div class="col-sm-4">
             		<div class="row">
 						<div class="col-sm-12">
 							<img src="img/portfolio/club_swim.jpg" class="img-responsive" alt="">
@@ -196,21 +196,20 @@
 						</div>
 					</div>
 				</div>
-<!--
-				<!- - Something Else Picture - ->
+
+				<!-- Hackathons Picture -->
 				<div class="col-sm-4">
             		<div class="row">
 						<div class="col-sm-12">
-							<img src="img/portfolio/placeholder.png" class="img-responsive" alt="">
+							<img src="img/portfolio/hackprinceton.jpg" class="img-responsive" alt="">
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h4>Something, IDK</h4>
+							<h4>Hackathons</h4>
 						</div>
 					</div>
 				</div>
--->
             </div>
         </div>
     </section>
