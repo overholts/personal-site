@@ -30,8 +30,7 @@
     <![endif]-->
 
     <!-- Log Visitor Statistics -->
-    <?php include_once("analytics.php") ?>
-
+    <?php include_once('./php/analytics.php'); ?>
 </head>
 
 <body id="page-top" class="index">
