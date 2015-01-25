@@ -30,7 +30,7 @@
     <![endif]-->
 
     <!-- Log Visitor Statistics -->
-    <?php include ('./php/logger.php'); ?>
+    <?php include_once("analytics.php") ?>
 
 </head>
 
