@@ -64,9 +64,6 @@
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
                     </li>
-                    <li class="page-scroll">
-                        <a href="http://www.benoverholts.com/Ben_Overholts_Resume.pdf" target="_blank">Resume</a>
-                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
@@ -110,8 +107,7 @@
                 <div class="col-sm-8">
                 	<p>I am a Computer Science student at the University of Maryland, College Park.  I expect to graduate in May 2016, and
                     have completed coursework on topics including data structures, algorithm analysis, computer systems architecture,
-                    security, and compilers.  I have experience working with a wide range of tools and languages; for more information, check
-                    out my <a href="http://www.benoverholts.com/Ben_Overholts_Resume.pdf" target="_blank">Resume</a> or <a id="contact_link" href="#contact">Contact Me</a>!</p>
+                    security, and compilers.  I have experience working with a wide range of tools and languages; for more information, <a id="contact_link" href="#contact">Contact Me</a>!</p>
                 </div>
             </div>
 
