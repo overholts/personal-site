@@ -48,12 +48,7 @@
 
 /* Colors. */
 body {
-    background-color: #FCFCFC;
-}
-
-.white-bg {
-    background-color: #FFFFFF;
-    border-bottom: thin solid #F5F5F5;
+    background-color: #E6E6E6;
 }
 
 a {
