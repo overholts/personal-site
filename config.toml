@@ -1,0 +1,4 @@
+baseURL = "http://overholts.dev/"
+languageCode = "en-us"
+title = "Ben Overholts"
+theme = "paper"
