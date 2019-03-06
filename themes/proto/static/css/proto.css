@@ -1,0 +1,40 @@
+/* Fonts. */
+nav {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+body h1, body h2, body h3, body h4, body h5, body h6 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 600;
+}
+
+/* Colors. */
+body {
+  background-color: #EEE;
+  color: #333;
+}
+
+a {
+  color: #757575;
+  text-decoration: none!important;
+}
+
+a:hover {
+  color: inherit;
+}
+
+/* Selection. */
+::selection{
+  background: #535353;
+  color: #fff;
+}
+
+::-moz-selection {
+  background: #535353;
+  color: #fff;
+}
