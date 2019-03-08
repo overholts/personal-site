@@ -10,3 +10,6 @@ theme = "proto"
     name = "about"
     url = "/about/"
     weight = -100
+
+[permalinks]
+	about = "/:filename/"
