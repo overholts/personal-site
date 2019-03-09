@@ -1,0 +1,7 @@
+.cycle-children span {
+    display: none;
+}
+
+.cycle-children span.active {
+    display: inherit;
+}
