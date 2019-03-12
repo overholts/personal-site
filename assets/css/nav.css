@@ -1,0 +1,6 @@
+/* Allow nav content to fill width (up to 1600px) above lg breakpoint. */
+@media (min-width: 992px) {
+  .navbar .container {
+    max-width: 1600px;
+  }
+}
