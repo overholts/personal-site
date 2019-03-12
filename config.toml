@@ -1,7 +1,6 @@
 baseURL = "https://overholts.dev/"
 languageCode = "en-us"
 title = "Ben Overholts"
-theme = "proto"
 
 [menu]
 
