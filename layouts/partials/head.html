@@ -1,9 +1,10 @@
 <head>
   <!-- Proccessed Assets -->
   {{ $core := resources.Get "css/core.css" }}
+  {{ $icons := resources.Get "css/icons.css" }}
   {{ $nav := resources.Get "css/nav.css" }}
   {{ $cycle_css := resources.Get "css/cycle-children.css" }}
-  {{ $styles := slice $core $nav $cycle_css | resources.Concat "bundle.css" | minify | fingerprint }}
+  {{ $styles := slice $core $icons $nav $cycle_css | resources.Concat "bundle.css" | minify | fingerprint }}
 
   {{ $cycle_js := resources.Get "js/cycle-children.js" }}
   {{ $scripts := slice $cycle_js | resources.Concat "bundle.js" | minify | fingerprint }}

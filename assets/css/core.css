@@ -1,10 +1,31 @@
+/* Layout. */
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+main {
+  flex-grow: 1;
+}
+
+header, main, footer {
+  flex-shrink: 0;
+}
+
+article {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+}
+
 /* Fonts. */
 nav {
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
 }
 
-body {
+header, main {
   font-family: 'Titillium Web', sans-serif;
   font-size: 22px;
   line-height: 1.4;
@@ -44,6 +65,10 @@ a:hover {
 /* Specific formatting. */
 .employer-icon {
   width: 100px;
+}
+
+.social-icons {
+  font-size: 200%;
 }
 
 .img-circle {
