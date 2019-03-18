@@ -1,4 +1,7 @@
 <head>
+
+  {{- partial "analytics.html" . -}}
+
   <!-- Proccessed Assets -->
   {{ $core := resources.Get "css/core.css" }}
   {{ $icons := resources.Get "css/icons.css" }}
